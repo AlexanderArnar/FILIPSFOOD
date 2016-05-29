@@ -1,1 +1,15 @@
-<h1 style="color:blue;">This is a Blue Heading</h1>
+html, body {
+  width:  100%;
+  height: 100%;
+  margin: 0px;
+  border: 0px;
+  padding: 0px;
+  overflow: hidden;
+}
+
+Header{
+	Color: blue;
+	font-family: verdana;
+	font-size: 300%;
+	text-align: center;
+}
